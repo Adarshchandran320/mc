@@ -1,6 +1,6 @@
 Thanks for downloading this template!
 
 Template Name: LAS
-Template URL: https://bootstrapmade.com/easyfolio-bootstrap-portfolio-template/
+Template URL: https://bootstrapmade.com/las-bootstrap-las-template/
 Author: Bootstrap.com
-License: https://bootstrapmade.com/license/
+License: https://bootstrap.com/license/
